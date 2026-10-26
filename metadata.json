@@ -1,0 +1,6 @@
+{
+  "name": "Premium Glass Calculator",
+  "description": "A high-performance scientific and standard calculator featuring authentic glassmorphic optics, dynamic sound synthesis, calculation history tape, and constants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
